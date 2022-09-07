@@ -1,1 +1,1 @@
-# Reac-Redux-Tutorial
+# React-Redux-Tutorial
