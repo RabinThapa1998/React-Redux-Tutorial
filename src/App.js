@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import HomePage from "./components/HomePage";
 import AboutPage from "./components/AboutPage";
+import ContactPage from "./components/ContactPage";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <HomePage />
         <AboutPage />
       </div>
+      <ContactPage />
     </div>
   );
 }
